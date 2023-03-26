@@ -2,9 +2,10 @@
 **a front-end developer that loves everything visual**  
 i'm also a video games enthusiast, plant lover and music addict  
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicagabriel/)
 [![portfolio](https://img.shields.io/badge/portfolio-9850EE.svg?style=flat-square)](https://monica.pt/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicagabriel/)
 [![codepen](https://img.shields.io/badge/codepen-black.svg?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/msgabriel)
+[![spotify](https://img.shields.io/badge/spotify-1DB954.svg?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/msgabriel)
 
 #### tech stack 
 ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=flat-square&logo=javascript)
